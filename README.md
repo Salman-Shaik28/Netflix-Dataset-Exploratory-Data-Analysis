@@ -62,9 +62,6 @@ The dataset used for this analysis is publicly available and contains informatio
     - Discussed notable trends in content creation and audience preferences.
     - Suggested areas for further exploration or business recommendations.
 
-8. **Video Summary**
-    - A 5 to 10-minute video explaining the key insights and visualizations from the project.
-
 ## Results
 - Clear visualizations illustrating the growth of content.
 - Genre and country-wise content analysis.
